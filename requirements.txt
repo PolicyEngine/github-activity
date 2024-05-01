@@ -3,3 +3,4 @@ plotly
 PyGithub
 policyengine-core
 backoff
+IPython
