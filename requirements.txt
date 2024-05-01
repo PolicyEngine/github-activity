@@ -1,6 +1,5 @@
 streamlit
 plotly
-github
+PyGithub
 policyengine-core
 backoff
-aiohttp==3.7.4
