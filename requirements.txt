@@ -1,0 +1,5 @@
+streamlit
+plotly
+github
+policyengine-core
+backoff
