@@ -3,3 +3,4 @@ plotly
 github
 policyengine-core
 backoff
+aiohttp==3.8.1 --no-binary aiohttp
